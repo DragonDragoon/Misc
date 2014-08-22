@@ -9,11 +9,12 @@ This UserScript is aimed to simulate the user clicking to the current semester a
 
 Instructions:
 ====
-1) For Firefox:
-     Install <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/">Greasemonkey</a> Firefox Add-on.
+1) Depending on your browser (Others are supported as long as they can run simple UserScripts):
+For Firefox:
+  Install <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/">Greasemonkey</a> Firefox Add-on.
   
-   For Chrome:
-     Install <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en">Tampermonkey<a> from the Chrome Web Store.
+For Chrome:
+  Install <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en">Tampermonkey<a> from the Chrome Web Store.
 
 2) Visit the <a href="https://github.com/DragonDragoon/Misc/raw/master/JavaScript/Moodle2-Course-Expander/Moodle2CourseExpander.user.js">Raw</a> version of the script.
 
