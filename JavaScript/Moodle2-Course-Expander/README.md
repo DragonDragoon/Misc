@@ -10,6 +10,7 @@ This UserScript is aimed to simulate the user clicking to the current semester a
 Instructions:
 ====
 1) Depending on your browser (Others are supported as long as they can run simple UserScripts):
+
 For Firefox:
   Install <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/">Greasemonkey</a> Firefox Add-on.
   
