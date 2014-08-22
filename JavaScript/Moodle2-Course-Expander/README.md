@@ -5,8 +5,10 @@ As of the recent update to Moodle2, the page no longer displays "My Courses" for
 Having to open it for every time a user wants to view a class seems tedious.
 
 This UserScript is aimed to simulate the user clicking to the current semester automatically.
-====
+
+
 Instructions:
+====
 1) For Firefox:
      Install <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/">Greasemonkey</a> Firefox Add-on.
   
